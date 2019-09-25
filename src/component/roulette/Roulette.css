@@ -1,0 +1,8 @@
+.roulette {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  margin-left: -2px;
+}
+
